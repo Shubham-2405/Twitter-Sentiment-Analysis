@@ -6,7 +6,7 @@ from pathlib import Path
 
 
 # SET THE PAGE TITLE
-st.set_page_config(page_title="Sentiment Analysis Application",page_icon="D:\sentiment_analysis\Screenshot 2024-12-31 215335.png")
+st.set_page_config(page_title="Sentiment Analysis Application",page_icon="D:\sentiment_analysis\logo.png")
 
 # APPLICATION TITLE AND DESCRIPTION
 
