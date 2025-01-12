@@ -4,14 +4,6 @@ Twitter Sentiment Analysis using NLP is a project that leverages Natural Languag
 
 It aims to understand public opinion or sentiment on specific topics, events, or brands by analyzing tweets.
 
-## Setup
-
-1. Clone this repository.
-2. Install the required packages:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Place your `twitter_training.csv` and `twitter_validation.csv` files in the `data/` directory.
 
 ## Usage
 
